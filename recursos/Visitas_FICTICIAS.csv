@@ -1,0 +1,10 @@
+﻿ID,Recurso_ID,Fecha_hora_local,Centro_ficticio,Clase_didactica,Limpieza_registrada
+V01,R01,2026-10-01 08:00,Centro_01,B,si
+V02,R01,2026-10-02 08:00,Centro_02,A,si
+V03,R02,2026-10-01 09:00,Centro_03,A,si
+V04,R02,2026-10-01 15:00,Centro_04,B,no
+V05,R03,2026-10-02 10:00,Centro_05,,desconocido
+V06,R04,2026-10-01 08:00,Centro_06,B,si
+V07,R04,2026-10-04 08:00,Centro_07,A,si
+V08,R05,2026-10-01 08:00,Centro_08,B,si
+V09,R05,2026-10-03 20:00,Centro_09,A,si

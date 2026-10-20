@@ -1,0 +1,6 @@
+﻿Articulo_ID,Descripcion,Stock_unidades,En_pedido_unidades,Consumo_diario_unidades,Plazo_dias,Seguridad_dias
+M01,Articulo ficticio 01,500,100,120,5,2
+M02,Articulo ficticio 02,300,0,20,3,2
+M03,Articulo ficticio 03,60,40,30,2,2
+M04,Articulo ficticio 04,40,0,,3,2
+M05,Articulo ficticio 05,90,0,15,3,2

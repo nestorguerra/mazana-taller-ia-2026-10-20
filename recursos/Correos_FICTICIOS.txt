@@ -1,0 +1,31 @@
+CORREOS FICTICIOS DE FORMACIÓN. No pertenecen a buzones reales.
+Todos los dominios .invalid son de ejemplo. No enviar mensajes.
+Corte del ejercicio: 20/10/2026, 09:00 Europe/Madrid.
+
+=== E01 ===
+Fecha: 20/10/2026 08:10 Europe/Madrid
+De: Comercial A <ventas-a@example.invalid>
+Para: Compras <compras@example.invalid>
+Asunto: Oferta orientativa M01
+Podemos suministrar 240 unidades genéricas del artículo M01 a 2,40 euros por unidad. Plazo: 6 días naturales desde aceptación. Mínimo: 100 unidades. Transporte e impuestos no indicados. Oferta no aceptada.
+
+=== E02 ===
+Fecha: 20/10/2026 08:20 Europe/Madrid
+De: Comercial B <ventas-b@example.invalid>
+Para: Compras <compras@example.invalid>
+Asunto: Alternativa M01
+Precio: 2,55 euros por unidad. Podemos confirmar un plazo de 3 días naturales desde aceptación. Pedido mínimo: 200 unidades. Para comparar, utilicen 240 unidades. No se han informado transporte, impuestos ni condiciones de pago. Oferta no aceptada.
+
+=== E03 ===
+Fecha: 20/10/2026 08:35 Europe/Madrid
+De: Transporte <trafico@example.invalid>
+Para: Operaciones <operaciones@example.invalid>
+Asunto: L03. Revisión antes de cargar
+La planificación recibida indica 26 toneladas para VP01, cuya capacidad indicada es 24 t. Se ha comunicado un retraso de 40 minutos. Necesitamos que reviséis la carga antes de confirmar. No hay una alternativa de vehículo confirmada.
+
+=== E04 ===
+Fecha: 20/10/2026 08:45 Europe/Madrid
+De: Recepción centro ficticio <recepcion@example.invalid>
+Para: Operaciones <operaciones@example.invalid>
+Asunto: PED040 / ALB040. Revisar cantidades
+Nuestro pedido PED040 era de 24 toneladas de PI-C02. El albarán ALB040 recibido indica 22.000 kg. Por favor, revisad la diferencia y preparad una respuesta antes de las 12:00 del 20/10/2026. No hemos confirmado si habrá una segunda entrega.

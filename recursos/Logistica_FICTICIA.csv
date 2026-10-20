@@ -1,0 +1,6 @@
+﻿ID,Familia,Origen,Destino,Toneladas,Vehiculo_ID,Estado,Retraso_min
+L01,Animales,Centro_A,Centro_B,14,VA01,Entregado,0
+L02,Pienso,Fabrica_A,Centro_C,22,VP01,Entregado,0
+L03,Pienso,Fabrica_A,Centro_D,26,VP01,Retrasado,40
+L04,Cereal,Almacen_A,Fabrica_A,20,,Pendiente,
+L05,Cereal,Almacen_B,Fabrica_A,28,VC01,Entregado,0
